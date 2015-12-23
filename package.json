@@ -1,0 +1,23 @@
+{
+  "name": "nodeexpress-docker",
+  "version": "1.0.0",
+  "description": "Sample Node+Express+Docker application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexleventer/nodeexpress-docker.git"
+  },
+  "author": "Alex Leventer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexleventer/nodeexpress-docker/issues"
+  },
+  "homepage": "https://github.com/alexleventer/nodeexpress-docker#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3"
+  }
+}
